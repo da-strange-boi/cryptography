@@ -1,2 +1,2 @@
-# cryptography
- A collection of cryptography algorithm implementations in C++
+# C++ cryptography
+A collection of cryptography algorithms in C++
